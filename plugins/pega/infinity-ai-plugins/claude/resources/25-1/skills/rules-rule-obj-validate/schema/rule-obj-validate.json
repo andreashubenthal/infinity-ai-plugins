@@ -350,6 +350,7 @@
             "PropertyExistsAndHasValue",
             "invokeValidate",
             "pzRule-Obj-Whenfalse",
+            "RuleWhenEvaluatesToFalse",
             "Rule-Obj-When",
             "StringEquals",
             "StringEqualsIgnoreCase",
